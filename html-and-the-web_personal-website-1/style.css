@@ -1,0 +1,18 @@
+* {
+
+background-color: sandybrown;
+}
+
+h1 {
+    color: aqua;
+}
+
+h2 {
+    box-sizing: border-box;
+    width: 400;
+    background-color: blue;
+    padding: 16px 32px;
+    border-radius: 50px;
+
+
+}
